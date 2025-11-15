@@ -1,16 +1,14 @@
-## Hi there 👋
+```javascript
+const Reigns = {
+"canCode": ["C", "C++", "Bash", "Java", "Python", "JavaScript", "NodeJS", "HTML", "XML", "CSS"];
+}
 
-<!--
-**reign-zu/reign-zu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+if(atHome){
+console.log("There's no place like 127.0.0.1");
+} else{
+console.log("Working on the codes.");
+}
+```
