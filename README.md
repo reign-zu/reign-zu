@@ -1,6 +1,6 @@
 ```javascript
 const Reigns = {
-"canCode": ["C", "C++", "Bash", "Java", "Python", "JavaScript", "NodeJS", "HTML", "XML", "CSS"];
+"canCode": ["C", "C++", "Bash", "Java", "Python", "JavaScript", "NodeJS", "SQL, "HTML", "XML", "CSS"];
 }
 
 ```
