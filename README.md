@@ -4,7 +4,7 @@
 
 __×__ Self-learning to expand my knowledge in **Programming** and **Cyber Security**.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif-bold&size=22&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=“Nobody+hears+a+tree+grow”)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif-bold&size=20&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=“Nobody+hears+a+tree+grow”)
 
 ***
 ### • Programming Languages & Tools
